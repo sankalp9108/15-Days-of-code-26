@@ -19,19 +19,19 @@ This repository is for the **15 Days of Code Challenge** organized by **Vision C
 
 
 
-DAY-1
--learning c++ basic includes conditions and while loop (video link:https://youtu.be/WR31ByTzAVQ?si=h82uxns3J60FBKTb & https://youtu.be/t6zLJOCVqD0?si=gGsdknBjhY6LVZKn)
--practice standard 20 pattern printing questions using while loop in the love bubber video (video link:https://youtu.be/dr-pLeJBr38?si=1KWrkMkI1HUc5Qtm)
--learning advancced backend(FastAPI) (video link:https://youtu.be/0sOvCWFmrtA?si=3sZVtCWOxFnKmurb)
-
-
-DAY-2
--learning bitwise operator and for loop (video link:https://youtu.be/yjdQHb2elqI?si=CZ1y__v_FQPC5Q89)
+DAY-1  
+-learning c++ basic includes conditions and while loop (video [link](https://youtu.be/WR31ByTzAVQ?si=h82uxns3J60FBKTb) & [link](https://youtu.be/t6zLJOCVqD0?si=gGsdknBjhY6LVZKn))  
+-practice standard 20 pattern printing questions using while loop in the love bubber video (video [link](https://youtu.be/dr-pLeJBr38?si=1KWrkMkI1HUc5Qtm))  
+-learning advancced backend(FastAPI) (video [link](https://youtu.be/0sOvCWFmrtA?si=3sZVtCWOxFnKmurb))  
+  
+  
+DAY-2  
+-learning bitwise operator and for loop (video [link](https://youtu.be/yjdQHb2elqI?si=CZ1y__v_FQPC5Q89))  
 -solve 3 leetcode problems {
-    Q1-https://leetcode.com/submissions/detail/2002307660/
-    Q2-https://leetcode.com/submissions/detail/2002307660/
-    Q3-https://leetcode.com/submissions/detail/2002307660/
-}
--learn number system binary, decimal(video link:https://youtu.be/bWrsk0QizEk?si=20JrIDfN4Y3hq7pO)
--revise backend and start the agentic ai (video link:https://youtu.be/D5KhiCDM9XQ?si=DGFBGPxJt8GnbUVT)
+    [Q1](https://leetcode.com/submissions/detail/2002307660/)
+    [Q2](https://leetcode.com/submissions/detail/2002307660/)
+    [Q3](https://leetcode.com/submissions/detail/2002307660/)
+}  
+-learn number system binary, decimal (video [link](https://youtu.be/bWrsk0QizEk?si=20JrIDfN4Y3hq7pO))  
+-revise backend and start the agentic ai (video [link](https://youtu.be/D5KhiCDM9XQ?si=DGFBGPxJt8GnbUVT))
 
