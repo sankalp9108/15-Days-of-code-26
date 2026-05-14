@@ -33,5 +33,10 @@ DAY-2
     [Q3](https://leetcode.com/submissions/detail/2002307660/)
 }  
 -learn number system binary, decimal (video [link](https://youtu.be/bWrsk0QizEk?si=20JrIDfN4Y3hq7pO))  
--revise backend and start the agentic ai (video [link](https://youtu.be/D5KhiCDM9XQ?si=DGFBGPxJt8GnbUVT))
+-revise backend and start the agentic ai (video [link](https://youtu.be/D5KhiCDM9XQ?si=DGFBGPxJt8GnbUVT))  
+  
 
+DAY-3  
+-learning switch statement and functions  
+-solve 4 leetcode problems{[Q1](https://leetcode.com/submissions/detail/2002825478/),[Q2](https://leetcode.com/submissions/detail/2002874737/),[Q3](https://leetcode.com/submissions/detail/2002963512/),[Q4](https://leetcode.com/submissions/detail/2002964512/)} and 3 codechef problems{[Q1](https://www.codechef.com/viewsolution/1277388576),[Q2](https://www.codechef.com/viewsolution/1277393997),[Q3](https://www.codechef.com/viewsolution/1277400767)}  
+-learning squential workflows in langgrapgh 
