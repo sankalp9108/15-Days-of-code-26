@@ -42,7 +42,8 @@ DAY-3
 -learning squential workflows in langgrapgh   
 
 
+DAY-4  
 -learning arrays and linear search  
--solve some questions on codechef([Q1](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/EXAMCHEF),[Q2](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/OFFICE),[Q3](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/OFFICE),[Q4](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/AMR15A),[Q5](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/CREDCOINS),[Q6](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/WATERFILLING),[Q7](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/SALESEASON))  
+-solve some questions on codechef([Q1](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/EXAMCHEF),[Q2](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/OFFICE),[Q3](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/AMR15A),[Q4](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/CREDCOINS),[Q5](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/WATERFILLING),[Q6](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/SALESEASON))  
 -practice squential workflows in langgraph
  
