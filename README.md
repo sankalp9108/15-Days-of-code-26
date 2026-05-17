@@ -39,4 +39,16 @@ DAY-2
 DAY-3  
 -learning switch statement and functions  
 -solve 4 leetcode problems{[Q1](https://leetcode.com/submissions/detail/2002825478/),[Q2](https://leetcode.com/submissions/detail/2002874737/),[Q3](https://leetcode.com/submissions/detail/2002963512/),[Q4](https://leetcode.com/submissions/detail/2002964512/)} and 3 codechef problems{[Q1](https://www.codechef.com/viewsolution/1277388576),[Q2](https://www.codechef.com/viewsolution/1277393997),[Q3](https://www.codechef.com/viewsolution/1277400767)}  
--learning squential workflows in langgrapgh 
+-learning squential workflows in langgrapgh   
+
+
+DAY-4  
+-learning arrays and linear search  
+-solve some questions on codechef([Q1](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/EXAMCHEF),[Q2](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/OFFICE),[Q3](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/AMR15A),[Q4](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/CREDCOINS),[Q5](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/WATERFILLING),[Q6](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/SALESEASON))  
+-practice squential workflows in langgraph
+
+
+DAY-5  
+-practice some questions of love bubber video and one leetcode question [link](https://leetcode.com/submissions/detail/2005321793/)  
+-learn parallel workflows in langgraph  
+-make a small project using langgraph of score the blog in different scales  
