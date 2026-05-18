@@ -52,3 +52,9 @@ DAY-5
 -practice some questions of love bubber video and one leetcode question [link](https://leetcode.com/submissions/detail/2005321793/)  
 -learn parallel workflows in langgraph  
 -make a small project using langgraph of score the blog in different scales  
+
+
+DAY-6  
+-learn STL and time & space complexity in c++ form striver  
+-learn conditional workflows in langgrah  
+
