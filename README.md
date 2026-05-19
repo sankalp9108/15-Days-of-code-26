@@ -58,3 +58,8 @@ DAY-6
 -learn STL and time & space complexity in c++ form striver  
 -learn conditional workflows in langgrah  
 
+
+DAY-7  
+- learn basic math, basic recursion
+- solve some problems on leetcode ([Q1](https://leetcode.com/submissions/detail/2005321793/) [Q2](https://leetcode.com/submissions/detail/2007381946/)) and some on codechef  
+- practice conditional and learn iterative workflows in langgrah
