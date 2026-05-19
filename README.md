@@ -19,10 +19,11 @@ This repository is for the **15 Days of Code Challenge** organized by **Vision C
 
 
 
-DAY-1  
--learning c++ basic includes conditions and while loop (video [link](https://youtu.be/WR31ByTzAVQ?si=h82uxns3J60FBKTb) & [link](https://youtu.be/t6zLJOCVqD0?si=gGsdknBjhY6LVZKn))  
--practice standard 20 pattern printing questions using while loop in the love bubber video (video [link](https://youtu.be/dr-pLeJBr38?si=1KWrkMkI1HUc5Qtm))  
--learning advancced backend(FastAPI) (video [link](https://youtu.be/0sOvCWFmrtA?si=3sZVtCWOxFnKmurb))  
+## DAY-1  
+
+- learning c++ basic includes conditions and while loop (video [link](https://youtu.be/WR31ByTzAVQ?si=h82uxns3J60FBKTb) & [link](https://youtu.be/t6zLJOCVqD0?si=gGsdknBjhY6LVZKn))  
+- practice standard 20 pattern printing questions using while loop in the love bubber video (video [link](https://youtu.be/dr-pLeJBr38?si=1KWrkMkI1HUc5Qtm))  
+- learning advancced backend(FastAPI) (video [link](https://youtu.be/0sOvCWFmrtA?si=3sZVtCWOxFnKmurb))  
   
   
 DAY-2  
