@@ -26,41 +26,37 @@ This repository is for the **15 Days of Code Challenge** organized by **Vision C
 - learning advancced backend(FastAPI) (video [link](https://youtu.be/0sOvCWFmrtA?si=3sZVtCWOxFnKmurb))  
   
   
-DAY-2  
--learning bitwise operator and for loop (video [link](https://youtu.be/yjdQHb2elqI?si=CZ1y__v_FQPC5Q89))  
--solve 3 leetcode problems {
-    [Q1](https://leetcode.com/submissions/detail/2002307660/)
-    [Q2](https://leetcode.com/submissions/detail/2002307660/)
-    [Q3](https://leetcode.com/submissions/detail/2002307660/)
-}  
--learn number system binary, decimal (video [link](https://youtu.be/bWrsk0QizEk?si=20JrIDfN4Y3hq7pO))  
--revise backend and start the agentic ai (video [link](https://youtu.be/D5KhiCDM9XQ?si=DGFBGPxJt8GnbUVT))  
+## DAY-2  
+- learning bitwise operator and for loop (video [link](https://youtu.be/yjdQHb2elqI?si=CZ1y__v_FQPC5Q89))  
+- solve 3 leetcode problems ([Q1](https://leetcode.com/submissions/detail/2002307660/), [Q2](https://leetcode.com/submissions/detail/2002307660/), [Q3](https://leetcode.com/submissions/detail/2002307660/))  
+- learn number system binary, decimal (video [link](https://youtu.be/bWrsk0QizEk?si=20JrIDfN4Y3hq7pO))  
+- revise backend and start the agentic ai (video [link](https://youtu.be/D5KhiCDM9XQ?si=DGFBGPxJt8GnbUVT))  
   
 
-DAY-3  
--learning switch statement and functions  
--solve 4 leetcode problems{[Q1](https://leetcode.com/submissions/detail/2002825478/),[Q2](https://leetcode.com/submissions/detail/2002874737/),[Q3](https://leetcode.com/submissions/detail/2002963512/),[Q4](https://leetcode.com/submissions/detail/2002964512/)} and 3 codechef problems{[Q1](https://www.codechef.com/viewsolution/1277388576),[Q2](https://www.codechef.com/viewsolution/1277393997),[Q3](https://www.codechef.com/viewsolution/1277400767)}  
--learning squential workflows in langgrapgh   
+## DAY-3  
+- learning switch statement and functions  
+- solve 4 leetcode problems ([Q1](https://leetcode.com/submissions/detail/2002825478/), [Q2](https://leetcode.com/submissions/detail/2002874737/), [Q3](https://leetcode.com/submissions/detail/2002963512/), [Q4](https://leetcode.com/submissions/detail/2002964512/)) and 3 codechef problems ([Q1](https://www.codechef.com/viewsolution/1277388576), [Q2](https://www.codechef.com/viewsolution/1277393997), [Q3](https://www.codechef.com/viewsolution/1277400767))  
+- learning squential workflows in langgrapgh   
 
 
-DAY-4  
--learning arrays and linear search  
--solve some questions on codechef([Q1](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/EXAMCHEF),[Q2](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/OFFICE),[Q3](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/AMR15A),[Q4](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/CREDCOINS),[Q5](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/WATERFILLING),[Q6](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/SALESEASON))  
--practice squential workflows in langgraph
+## DAY-4  
+- learning arrays and linear search  
+- solve some questions on codechef ([Q1](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/EXAMCHEF), [Q2](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/OFFICE), [Q3](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/AMR15A), [Q4](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/CREDCOINS), [Q5](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/WATERFILLING), [Q6](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/SALESEASON))  
+- practice squential workflows in langgraph
 
 
-DAY-5  
--practice some questions of love bubber video and one leetcode question [link](https://leetcode.com/submissions/detail/2005321793/)  
--learn parallel workflows in langgraph  
--make a small project using langgraph of score the blog in different scales  
+## DAY-5  
+- practice some questions of love bubber video and one leetcode question [link](https://leetcode.com/submissions/detail/2005321793/)  
+- learn parallel workflows in langgraph  
+- make a small project using langgraph of score the blog in different scales  
 
 
-DAY-6  
--learn STL and time & space complexity in c++ form striver  
--learn conditional workflows in langgrah  
+## DAY-6  
+- learn STL and time & space complexity in c++ form striver  
+- learn conditional workflows in langgrah  
 
 
-DAY-7  
+## DAY-7  
 - learn basic math, basic recursion
 - solve some problems on leetcode ([Q1](https://leetcode.com/submissions/detail/2005321793/) [Q2](https://leetcode.com/submissions/detail/2007381946/)) and some on codechef  
 - practice conditional and learn iterative workflows in langgrah
