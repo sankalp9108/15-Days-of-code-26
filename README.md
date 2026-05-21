@@ -60,3 +60,9 @@ This repository is for the **15 Days of Code Challenge** organized by **Vision C
 - learn basic math, basic recursion
 - solve some problems on leetcode ([Q1](https://leetcode.com/submissions/detail/2005321793/) [Q2](https://leetcode.com/submissions/detail/2007381946/)) and some on codechef  
 - practice conditional and learn iterative workflows in langgraph
+
+
+## DAY-7  
+- learn iterative workflow in langchain 
+- solve some problems on leetcode ([Q1](https://leetcode.com/submissions/detail/2009226240/) [Q2](https://leetcode.com/submissions/detail/2008943892/)) and some on codechef  
+- learn binary search and solve sort 0 1 2   
