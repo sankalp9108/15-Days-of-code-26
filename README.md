@@ -62,7 +62,12 @@ This repository is for the **15 Days of Code Challenge** organized by **Vision C
 - practice conditional and learn iterative workflows in langgraph
 
 
-## DAY-7  
+## DAY-8  
 - learn iterative workflow in langchain 
 - solve some problems on leetcode ([Q1](https://leetcode.com/submissions/detail/2009226240/) [Q2](https://leetcode.com/submissions/detail/2008943892/)) and some on codechef  
 - learn binary search and solve sort 0 1 2   
+
+## DAY-9    
+- make a simple chatbot using langgraph  
+- solve some problems on leetcode ([Q1](https://leetcode.com/submissions/detail/2009953326/) [Q2](https://leetcode.com/submissions/detail/2009976252/) [Q3](https://leetcode.com/submissions/detail/2010122893/)) and some on codechef  
+- practice of binary search  
