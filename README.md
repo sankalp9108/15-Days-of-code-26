@@ -71,3 +71,8 @@ This repository is for the **15 Days of Code Challenge** organized by **Vision C
 - make a simple chatbot using langgraph  
 - solve some problems on leetcode ([Q1](https://leetcode.com/submissions/detail/2009953326/) [Q2](https://leetcode.com/submissions/detail/2009976252/) [Q3](https://leetcode.com/submissions/detail/2010122893/)) and some on codechef  
 - practice of binary search  
+
+## DAY-10    
+- learn persistence in langgraph , how memory store of agents after complete the workflow    
+- solve some problems on leetcode ([Q1](https://leetcode.com/submissions/detail/2010615555/) [Q2](https://leetcode.com/submissions/detail/2010645113/)) and some on codechef  
+- give first contest on leetcode and solve one question [link](https://leetcode.com/submissions/detail/2010864783/)  
