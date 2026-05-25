@@ -76,3 +76,9 @@ This repository is for the **15 Days of Code Challenge** organized by **Vision C
 - learn persistence in langgraph , how memory store of agents after complete the workflow    
 - solve some problems on leetcode ([Q1](https://leetcode.com/submissions/detail/2010615555/) [Q2](https://leetcode.com/submissions/detail/2010645113/)) and some on codechef  
 - give first contest on leetcode and solve one question [link](https://leetcode.com/submissions/detail/2010864783/)  
+
+## DAY-11    
+- didn't code much yesterday so combine with today  
+- learn streaming in langgraph, add ui for chatbot , add database(sqlite) add resume chat feature learn about thread and config in langgraph      
+- solve some problems on leetcode ([Q1](https://leetcode.com/submissions/detail/2011941849/) [Q2](https://leetcode.com/submissions/detail/2012796235/)) and Book allocation problem from lova babber video
+- watch love babber 3rd video on binary search poblems (half)
