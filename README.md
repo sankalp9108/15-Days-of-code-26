@@ -84,7 +84,11 @@ This repository is for the **15 Days of Code Challenge** organized by **Vision C
 - watch love babber 3rd video on binary search poblems (half)
 
 ## DAY-12    
-- didn't code much yesterday so combine with today  
-- learn basic of langsmith and observebility in langgraph      
-- solve some problems on leetcode and gfg ([Q1](https://www.geeksforgeeks.org/problems/the-painters-partition-problem1535/1) [Q2](https://leetcode.com/submissions/detail/2013848537/) [Q3](https://www.geeksforgeeks.org/problems/aggressive-cows/1)) 
+- learn observebility in langgraph      
+- solve some problems on leetcode and codechef ([Q1](https://leetcode.com/submissions/detail/2013848537/) ) 
+- watch problem on binary search video of love babber   
+
+## DAY-13     
+- learn basic of langsmith        
+- solve some problems  gfg ([Q1](https://www.geeksforgeeks.org/problems/the-painters-partition-problem1535/1) [Q2](https://www.geeksforgeeks.org/problems/aggressive-cows/1)) 
 - watch sorting video of love babber and learn selection sort and bubble sort  
