@@ -82,3 +82,9 @@ This repository is for the **15 Days of Code Challenge** organized by **Vision C
 - learn streaming in langgraph, add ui for chatbot , add database(sqlite) add resume chat feature learn about thread and config in langgraph      
 - solve some problems on leetcode ([Q1](https://leetcode.com/submissions/detail/2011941849/) [Q2](https://leetcode.com/submissions/detail/2012796235/)) and Book allocation problem from lova babber video
 - watch love babber 3rd video on binary search poblems (half)
+
+## DAY-12    
+- didn't code much yesterday so combine with today  
+- learn basic of langsmith and observebility in langgraph      
+- solve some problems on leetcode and gfg ([Q1](https://www.geeksforgeeks.org/problems/the-painters-partition-problem1535/1) [Q2](https://leetcode.com/submissions/detail/2013848537/) [Q3](https://www.geeksforgeeks.org/problems/aggressive-cows/1)) 
+- watch sorting video of love babber and learn selection sort and bubble sort  
