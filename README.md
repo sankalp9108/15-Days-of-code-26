@@ -91,4 +91,9 @@ This repository is for the **15 Days of Code Challenge** organized by **Vision C
 ## DAY-13     
 - learn basic of langsmith        
 - solve some problems  gfg ([Q1](https://www.geeksforgeeks.org/problems/the-painters-partition-problem1535/1) [Q2](https://www.geeksforgeeks.org/problems/aggressive-cows/1)) 
-- watch sorting video of love babber and learn selection sort and bubble sort  
+- watch sorting video of love babber and learn selection sort and bubble sort
+  
+## DAY-14     
+- learn traces in langsmith and its implementation        
+- solve one leetcode problem [link](https://leetcode.com/submissions/detail/2015674605/)  
+- watch sorting video of love babber and learn insertion sort and stl in c++      
