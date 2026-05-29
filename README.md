@@ -97,3 +97,8 @@ This repository is for the **15 Days of Code Challenge** organized by **Vision C
 - learn traces in langsmith and its implementation        
 - solve one leetcode problem [link](https://leetcode.com/submissions/detail/2015674605/)  
 - watch sorting video of love babber and learn insertion sort and stl in c++      
+
+## DAY-15     
+- learn implement langsmith in langgraph and learn tracable          
+- solve 3 leetcode problem ([Q1](https://leetcode.com/submissions/detail/2016437700/) [Q2](https://leetcode.com/submissions/detail/2016427946/) [Q3](https://leetcode.com/submissions/detail/2016402709/)) 
+- watch problems video of love babber     
