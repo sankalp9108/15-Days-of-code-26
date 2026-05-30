@@ -101,4 +101,11 @@ This repository is for the **15 Days of Code Challenge** organized by **Vision C
 ## DAY-15     
 - learn implement langsmith in langgraph and learn tracable          
 - solve 3 leetcode problem ([Q1](https://leetcode.com/submissions/detail/2016437700/) [Q2](https://leetcode.com/submissions/detail/2016427946/) [Q3](https://leetcode.com/submissions/detail/2016402709/)) 
+- watch problems video of love babber
+
+## DAY-16     
+- learn the tool in langgraph
+- implementate the search tool & stock price fetch tool in chatbot
+- start the learning MCP servers            
+- solve 4 leetcode problem ([Q1](https://leetcode.com/submissions/detail/2016997151/) [Q2](https://leetcode.com/submissions/detail/2017027448/) [Q3](https://leetcode.com/submissions/detail/2017037020/) [Q4](https://leetcode.com/submissions/detail/2017054368/)) 
 - watch problems video of love babber     
