@@ -109,3 +109,17 @@ This repository is for the **15 Days of Code Challenge** organized by **Vision C
 - start the learning MCP servers            
 - solve 4 leetcode problem ([Q1](https://leetcode.com/submissions/detail/2016997151/) [Q2](https://leetcode.com/submissions/detail/2017027448/) [Q3](https://leetcode.com/submissions/detail/2017037020/) [Q4](https://leetcode.com/submissions/detail/2017054368/)) 
 - watch problems video of love babber     
+
+## Part 2 
+
+## DAY-1    
+- work on project (backend)       
+- watch problems video of love babber[link](https://youtu.be/Wdjr6uoZ0e0?si=4IX21BKuNBncVmh_)
+
+## DAY-2    
+- work on project (backend)       
+- watch problems video of love babber[link](https://youtu.be/Wdjr6uoZ0e0?si=4IX21BKuNBncVmh_)
+
+  ## DAY-3    
+- work on project (backend)       
+- watch problems video of love babber[link](https://youtu.be/1CdolnvxLs0?si=2UgH36Hj9Awd_Uqe)
