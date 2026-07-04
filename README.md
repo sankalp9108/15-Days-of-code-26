@@ -120,23 +120,24 @@ This repository is for the **15 Days of Code Challenge** organized by **Vision C
 - work on project (backend)       
 - watch problems video of love babber[link](https://youtu.be/Wdjr6uoZ0e0?si=4IX21BKuNBncVmh_)
 
-  ## DAY-3    
+## DAY-3    
 - work on project (backend)       
 - watch problems video of love babber[link](https://youtu.be/1CdolnvxLs0?si=2UgH36Hj9Awd_Uqe)
 
 
-  ## DAY-4    
+## DAY-4    
 - work on project (backend) and frontend also        
 - watch problems video of love babber[link](https://youtu.be/1CdolnvxLs0?si=2UgH36Hj9Awd_Uqe)
 
-## DAY-5    
-- work on project (backend)       
-- watch problems video of love babber[link](https://youtu.be/KdePjukNs98?si=eu-Z8e6HrnGEhA1A)
 
 ## DAY-5    
 - work on project (backend)       
 - watch problems video of love babber[link](https://youtu.be/KdePjukNs98?si=eu-Z8e6HrnGEhA1A)
 
-  ## DAY-6    
+## DAY-6    
+- work on project (backend)       
+- watch problems video of love babber[link](https://youtu.be/KdePjukNs98?si=eu-Z8e6HrnGEhA1A)
+
+## DAY-  7  
 - work on project (backend)       
 - watch problems video of love babber[link](https://youtu.be/KdePjukNs98?si=eu-Z8e6HrnGEhA1A)
